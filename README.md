@@ -3,6 +3,10 @@ JClientServerCommand
 
 A Java-based library implementing the GoF 'Command' design pattern within a client/server application topology.
 
+## History and Current State
+
+This code was written about 2008 and is no longer maintained.
+
 ## Rationale
 
 This code was developed as part of an exploration of document-oriented SOAP-based web services; more specifically building an abstraction layer on top of the web service interaction, providing distribution transparency.  The [Gang-of-Four](http://en.wikipedia.org/wiki/Design_Patterns) 'Command' design pattern was chosen as the basis for the abstraction.
